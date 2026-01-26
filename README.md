@@ -2,7 +2,9 @@
 <h1 style="font-size: 20px">FHER: A Multi-agent Reinforcement Learning Benchmark for Fire Hazard-Aware Emerging Response</h1>
 Ke ZHANG, Toshiharu SUGAWARA. FSE, Waseda University
 
-![对比展示](./icon/banner1.gif)
+
+<video src="./icon/banner1.mp4" width="100%" autoplay loop muted></video>
+
 ## What is FHER 🧐?
 FHER is a fire hazard–aware simulation environment designed for multi-agent reinforcement learning (MARL) research. It focuses on emergency response scenarios involving fire hazards, agent coordination, and human–agent interaction.
 ### 🧩 Task Types 
