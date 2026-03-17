@@ -3,7 +3,7 @@
 Ke ZHANG, FSE, Waseda University
 
 ## Demo 🚕
-<video src="https://github.com/user-attachments/assets/f1859419-4401-450c-9f48-7332fc96e3c8" width="100%" autoplay loop muted playsinline></video>
+<video src="https://github.com/user-attachments/assets/fe7da1f0-3d7e-419c-a2c9-7183180780b8" width="100%" autoplay loop muted playsinline></video>
 
 <!-- ## Demo 🚕
 
