@@ -1,0 +1,6 @@
+defaults:
+  - vmas_simple_push_config
+  - _self_
+
+
+max_steps: 100

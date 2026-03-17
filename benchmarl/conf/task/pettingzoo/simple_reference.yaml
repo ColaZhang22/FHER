@@ -1,0 +1,8 @@
+defaults:
+  - pettingzoo_simple_reference_config
+  - _self_
+
+
+task: "simple_reference_v3"
+max_cycles: 100
+local_ratio: 0.5

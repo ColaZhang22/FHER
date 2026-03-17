@@ -1,0 +1,9 @@
+# Path of the Environment
+env_path: "E:\\Pythoncode\\UnityProject\\ml-agents-release_20_docs\\Project\\MAPF_HARD_MAZE_FOG_4AGENTs\\UnityEnvironment"
+max_steps: 1000
+width: 1600
+height: 1000
+time_scale: 10.0
+n_agents: 4
+manual_metrics_size: 5
+render: True

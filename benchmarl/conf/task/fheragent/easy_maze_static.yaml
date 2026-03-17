@@ -1,0 +1,9 @@
+# Path of the Environment
+env_path: "E:\\Pythoncode\\UnityProject\\ml-agents-release_20_docs\\Project\\MAPF_EASY_MAZE_STATIC_4AGENTs_V1\\UnityEnvironment"
+max_steps: 500
+width: 800
+height: 800
+time_scale: 5.0
+n_agents: 4
+manual_metrics_size: 4
+render: False

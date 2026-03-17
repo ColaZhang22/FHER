@@ -1,0 +1,14 @@
+defaults:
+  - vmas_sampling_config
+  - _self_
+
+
+
+max_steps: 100
+n_agents: 3
+shared_rew: False
+n_gaussians: 3
+lidar_range: 0.2
+cov: 0.05
+collisions: True
+spawn_same_pos: False

@@ -1,0 +1,10 @@
+defaults:
+  - vmas_give_way_config
+  - _self_
+
+
+max_steps: 100
+mirror_passage: False
+observe_rel_pos: False
+done_on_completion: False
+final_reward: 0.01

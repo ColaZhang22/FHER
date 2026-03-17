@@ -1,0 +1,18 @@
+defaults:
+  - ippo_config
+  - _self_
+
+
+share_param_critic: True
+
+critic_coef: 0.5
+clip_epsilon: 0.2
+entropy_coef: 0.1
+# clip_epsilon: 0.2
+# entropy_coef: 0.01
+# critic_coef: 0.8
+loss_critic_type: "l2"
+lmbda: 0.9
+scale_mapping: "biased_softplus_1.0"
+use_tanh_normal: True
+minibatch_advantage: False

@@ -1,0 +1,10 @@
+defaults:
+  - vmas_reverse_transport_config
+  - _self_
+
+
+max_steps: 100
+n_agents: 4
+package_width: 0.6
+package_length: 0.6
+package_mass: 50

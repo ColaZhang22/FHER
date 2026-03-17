@@ -1,0 +1,7 @@
+defaults:
+  - pettingzoo_simple_speaker_listener_config
+  - _self_
+
+
+task: "simple_speaker_listener_v4"
+max_cycles: 100

@@ -1,0 +1,6 @@
+defaults:
+  - vmas_simple_speaker_listener_config
+  - _self_
+
+
+max_steps: 100
