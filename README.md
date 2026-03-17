@@ -18,7 +18,9 @@ FHER is a fire hazard–aware simulation environment designed for multi-agent re
 1.  Static continuous MAPF with multi-exit selection (SC-MAPF)
 2. Dynamic fire evacuation with non-stationary hazard propagation (DF-MAPF)
 3. Post-disaster cooperative search and rescue (PSR-MAPF)
-   
+
+MARL algorithms are mainly base on [BenchMARL](https://github.com/facebookresearch/BenchMARL) proposed by Meta Research.
+
 ### 🗺️ Maps of FHER
 
 ![Five maps of FHER](icon/maplist.jpg)
