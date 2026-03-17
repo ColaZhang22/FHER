@@ -2,6 +2,7 @@
 <h1 style="font-size: 20px">FHER: A Multi-agent Reinforcement Learning Benchmark for Fire Hazard-Aware Emerging Response</h1>
 Ke ZHANG, FSE, Waseda University
 
+## Demo 🚕
 <video src="https://github.com/user-attachments/assets/f1859419-4401-450c-9f48-7332fc96e3c8" width="100%" autoplay loop muted playsinline></video>
 
 <!-- ## Demo 🚕
