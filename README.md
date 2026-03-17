@@ -7,7 +7,7 @@ Ke ZHANG, FSE, Waseda University
 ## Demo 🚕
 
 <video width="640" height="120" controls>
-  <source src="https://github.com/ColaZhang22/FHER/blob/764000b5b9ff43281d38a7159ef7d8b711a16809/icon/Demo.mp4" type="video/mp4">.
+  <source src="https://github.com/ColaZhang22/FHER/blob/main/icon/Demo.mp4" type="video/mp4">.
 </video>
 
 ## Overview 🧐
